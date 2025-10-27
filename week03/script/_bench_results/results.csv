@@ -1,0 +1,12 @@
+small,npm,cold,78452,6428,160,135328,0,0
+small,npm,cold,78452,6428,160,135328,0,0
+small,yarn,cold,0,0,628,336,0,0
+small,npm,cold,78456,6428,160,135328,0,0
+small,yarn,cold,0,0,628,336,0,0
+small,pnpm,cold,81288,8241,96,344,0,75528
+medium,npm,cold,191744,14785,288,317296,0,0
+medium,yarn,cold,0,0,716,696,0,0
+medium,pnpm,cold,195684,17682,168,704,0,186228
+monorepo,npm,cold,46844,2086,52,56924,0,0
+monorepo,yarn,cold,0,0,464,136,0,0
+monorepo,pnpm,cold,0,0,4,144,0,4
